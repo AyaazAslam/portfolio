@@ -50,7 +50,7 @@ function Projects() {
               title="MoviesHub"
               description="The React-built Movies search application.By clicking on each movie's card, viewers may examine extensive information about the film, including its year, poster, and genre.Javascript provides an easy-to-use interface for movie discovery."
               ghLink="https://github.com/syedmaazsaeed/React-Movie-Search"
-              demoLink="#"
+              demoLink="#/"
             />
           </Col>
 
